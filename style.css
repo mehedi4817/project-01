@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 665px;
+}
+/* start hero section */
+img{
+    width: 100%;
+}
+.hero-section{
+    background-image: url('image/header-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: #000000;
+}
+
+#Mehedi{
+    font-size: 50px;
+    font-weight: 700;
+    color: #ffa500;
+}
+h2{
+    font-size: 19px;
+    font-weight: 700;
+}
+p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #696969;
+}
+.anchor-tag{
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: tomato;
+    color: #fff;
+    margin-top: 5%;
+    padding: 15px;
+    border-radius: 35px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+/* end hero section */
+/* start second section */
+.second-section{
+    background-image: url('image/footer-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bio{
+    font-size: 36px;
+    font-weight: 700;
+}
+.CV{
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: tomato;
+    color: #fff;
+    margin-top: 5%;
+    padding: 15px;
+    border-radius: 35px;  
+}
+/* end second section */
+
+.therd-section{
+    background-image: url('image/biography-bg.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h3{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.center-image{
+    display: flex;
+    width: 30%;
+}
+
+#text{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 5%;
+}
+#devolpo{
+    font-size: 25px;
+    font-weight: 100;
+    color: tomato;
+}
+#text-2{
+    text-align: center;
+    width: 47%;
+    margin-left: 27%;
+    margin-top: 5%;
+
+}
+.massage{
+    background-color: #e02828;
+    text-align: center;
+    margin: 0 auto;
+    color: lightyellow;
+    text-decoration: none;
+    width: 60%;
+    border-radius: 35px;
+    padding: 10px 0;
+    margin-top: 40px;
+    margin-bottom: 5%;
+}
+footer{
+    text-align: center;
+    /* margin-top: 5%; */
+}
